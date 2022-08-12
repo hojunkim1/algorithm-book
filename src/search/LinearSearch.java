@@ -3,7 +3,7 @@ package search;
 import java.util.Scanner;
 
 public class LinearSearch {
-    public static void call() {
+    public static void linearSearch() {
         Scanner stdIn = new Scanner(System.in);
 
         // get length of array

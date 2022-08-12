@@ -1,7 +1,7 @@
-import search.LinearSearch;
+import search.UseComparator;
 
 public class Main {
     public static void main(String[] args) {
-        LinearSearch.call();
+        UseComparator.useComparator();
     }
 }
