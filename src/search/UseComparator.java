@@ -28,9 +28,9 @@ public class UseComparator {
     }
 
     static class PhyscData {
-        private String name;
-        private int height;
-        private double vision;
+        private final String name;
+        private final int height;
+        private final double vision;
 
         public PhyscData(String name, int height, double vision) {
             this.name = name;
