@@ -1,4 +1,4 @@
-package stackQue;
+package stack;
 
 public class IntStack {
     private int[] stack;

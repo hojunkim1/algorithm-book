@@ -1,5 +1,7 @@
-# Searching Algorithm
+# Search
 
-## Linear Search (Sequential Search)
+## 1. Linear Search (Sequential Search)
 
-## Binary Search
+## 2. Binary Search
+
+## 3. Binary Search with Comparator
