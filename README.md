@@ -12,13 +12,13 @@
 
 3. Searching algorithms
 
-    - Linear search
-    - Binary search
+    - Linear search ✅
+    - Binary search ✅
 
-4. Stack & Que
+4. Stack & Queue
 
-    - Stack
-    - Que
+    - Stack ✅
+    - Queue
 
 5. Recursive algorithms
 
