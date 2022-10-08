@@ -18,14 +18,13 @@
 4. Stack & Queue
 
     - Stack ✅
-    - Queue
+    - Queue ✅
 
 5. Recursive algorithms
 
-    - Basic recursive
-    - 재귀 알고리즘 분석
-    - 하노이의 탑
-    - 8퀸 문제
+    - Basic recursive ✅
+    - Hanoi ✅
+    - 8-Queen ✅
 
 6. Sorting algorithms
 
