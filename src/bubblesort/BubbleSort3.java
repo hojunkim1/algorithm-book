@@ -25,7 +25,7 @@ public class BubbleSort3 {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
 
-        System.out.println("버블 정렬(버전 1)");
+        System.out.println("버블 정렬(버전 3)");
         System.out.print("요솟수: ");
         int nx = stdIn.nextInt();
         int[] x = new int[nx];
