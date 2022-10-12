@@ -28,8 +28,8 @@
 
 6. Sorting algorithms
 
-    - Bubble sort
-    - 단순선택정렬
+    - Bubble sort ✅
+    - Selection sort ✅
     - 단순삽입정렬
     - 셸 정렬
     - 퀵 정렬
