@@ -26,16 +26,16 @@
     - Hanoi
     - 8-Queen
 
-6. Sorting algorithms 🚀
+6. Sorting algorithms
 
-    - Bubble sort ✅
-    - Selection sort ✅
-    - Insertion sort ✅
-    - Shell sort ✅
-    - Quick sort ✅
+    - Bubble sort
+    - Selection sort
+    - Insertion sort
+    - Shell sort
+    - Quick sort
     - Merge sort
-    - Heap sort ✅
-    - Counting sort ✅
+    - Heap sort
+    - Counting sort
 
 7. Searching string
 
