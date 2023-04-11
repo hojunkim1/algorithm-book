@@ -22,7 +22,7 @@ public class SelectionSort {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
 
-        System.out.println("버블 정렬(버전 1)");
+        System.out.println("단순 선택 정렬");
         System.out.print("요솟수: ");
         int nx = stdIn.nextInt();
         int[] x = new int[nx];
