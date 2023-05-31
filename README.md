@@ -1,4 +1,4 @@
-# Java Algorithm
+# Algorithm Book
 
 1. Basic algorithms
 
